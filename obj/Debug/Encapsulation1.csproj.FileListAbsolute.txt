@@ -1,0 +1,7 @@
+C:\xampp\htdocs\saeed\C#\Encapsulation1\Encapsulation1\bin\Debug\Encapsulation1.exe.config
+C:\xampp\htdocs\saeed\C#\Encapsulation1\Encapsulation1\bin\Debug\Encapsulation1.exe
+C:\xampp\htdocs\saeed\C#\Encapsulation1\Encapsulation1\bin\Debug\Encapsulation1.pdb
+C:\xampp\htdocs\saeed\C#\Encapsulation1\Encapsulation1\obj\Debug\Encapsulation1.csproj.AssemblyReference.cache
+C:\xampp\htdocs\saeed\C#\Encapsulation1\Encapsulation1\obj\Debug\Encapsulation1.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\saeed\C#\Encapsulation1\Encapsulation1\obj\Debug\Encapsulation1.exe
+C:\xampp\htdocs\saeed\C#\Encapsulation1\Encapsulation1\obj\Debug\Encapsulation1.pdb
