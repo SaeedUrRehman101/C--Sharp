@@ -5,3 +5,10 @@ C:\xampp\htdocs\saeed\C#\Encapsulation1\Encapsulation1\obj\Debug\Encapsulation1.
 C:\xampp\htdocs\saeed\C#\Encapsulation1\Encapsulation1\obj\Debug\Encapsulation1.csproj.CoreCompileInputs.cache
 C:\xampp\htdocs\saeed\C#\Encapsulation1\Encapsulation1\obj\Debug\Encapsulation1.exe
 C:\xampp\htdocs\saeed\C#\Encapsulation1\Encapsulation1\obj\Debug\Encapsulation1.pdb
+C:\Users\std1\source\Encapsulation1\Encapsulation1\bin\Debug\Encapsulation1.exe.config
+C:\Users\std1\source\Encapsulation1\Encapsulation1\bin\Debug\Encapsulation1.exe
+C:\Users\std1\source\Encapsulation1\Encapsulation1\bin\Debug\Encapsulation1.pdb
+C:\Users\std1\source\Encapsulation1\Encapsulation1\obj\Debug\Encapsulation1.csproj.AssemblyReference.cache
+C:\Users\std1\source\Encapsulation1\Encapsulation1\obj\Debug\Encapsulation1.csproj.CoreCompileInputs.cache
+C:\Users\std1\source\Encapsulation1\Encapsulation1\obj\Debug\Encapsulation1.exe
+C:\Users\std1\source\Encapsulation1\Encapsulation1\obj\Debug\Encapsulation1.pdb

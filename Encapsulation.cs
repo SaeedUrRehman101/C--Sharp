@@ -11,7 +11,7 @@ namespace Encapsulation1
         private string name;
         private int age;
 
-        public string Name{
+        public string Name{ //With Properties we access private members
             get { return name; }
             set { name = value; }
         }
@@ -20,6 +20,12 @@ namespace Encapsulation1
         {
             get { return age; }
             set { age = value; }
+        }
+
+        public void Names(string name) //Without Properties
+        {
+            this.name = name;
+            Console.WriteLine(name);
         }
 
     }

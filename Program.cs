@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Encapsulation1
 {
-    internal class Program
+     class Program
     {
         //-------------------------------- 
         //OPERATORS
@@ -50,12 +50,22 @@ namespace Encapsulation1
         //Encapsulation
         static void Main(string[] args)
         {
-            Encapsulation Obj = new Encapsulation();
-            Obj.Name = "Ali";
-            Obj.Age = 100;
-            Obj.Names("ali");
-            Console.WriteLine(Obj.Name);
-            Console.WriteLine(Obj.Age);
+            /* Encapsulation Obj = new Encapsulation();
+             Obj.Name = "Ali";
+             Obj.Age = 100;
+             Obj.Names("ali");
+             Console.WriteLine(Obj.Name);
+             Console.WriteLine(Obj.Age);
+ */
+            //------------------------------------- 
+            //PLOYMROPHISM
+
+            Child obj =new Child();
+            int a = obj.polymorphism(89,56,78);
+            Console.WriteLine(a);
+
+
         }
+
     }
 }
